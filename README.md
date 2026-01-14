@@ -1,6 +1,5 @@
 # 💫 Greetings! I'm Sarthak
 <br>
-
 I’m an **M.Sc. Chemistry graduate (2025)** from **IIT Indore**, with strong interests in **Computational Chemistry**, **Catalysis**, and **Machine Learning for Materials Science**.
 
 ## 🌐 Socials:
