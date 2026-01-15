@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=720&lines=Catalysis+%7C+Machine+Learning;Always+Learning+%7C+Always+Building" />
 </p>
-
+<img align="right" alt="coding" width="400" src="https://github.com/sabiehahmed10p/sabiehahmed10p">
 <!-- Social Icons -->
 <p align="center">
   <a href="https://linkedin.com/in/sarthak-maity-900279283" target="_blank">
