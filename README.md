@@ -53,35 +53,11 @@ My research interests lie at the intersection of:
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SARTHAK-802&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SARTHAK-802&theme=blue-green&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-802&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
+## GitHub Analytics ![](https://github-readme-stats.vercel.app/api?username=SARTHAK-802&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=SARTHAK-802&theme=blue-green&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-802&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 ---
 
-## Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SARTHAK-802&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## Visitors Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SARTHAK-802&icon=0&color=0" />
-</p>
+## Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=SARTHAK-802&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=SARTHAK-802&icon=0&color=0)](https://visitcount.itsvg.in) --- <p align="center"> ⚡ “Science + Code = Future” ⚡ </p>' place github analytics at center
 
 ---
 
