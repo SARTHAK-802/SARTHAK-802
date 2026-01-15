@@ -57,11 +57,6 @@ My research interests lie at the intersection of:
 ---
 
 ## GitHub Analytics 
-
-![](https://github-readme-stats.vercel.app/api?username=SARTHAK-802&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=SARTHAK-802&theme=blue-green&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-802&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
-
- # 📊 GitHub Stats:
-
 <div align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SARTHAK-802&theme=radical">
