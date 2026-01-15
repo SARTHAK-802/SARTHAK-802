@@ -56,7 +56,53 @@ My research interests lie at the intersection of:
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=numpy" height="45" alt="NumPy" />
   &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=matplotlib" height="45" alt="Matplotlib" />
 </p>
 
-> ✅ Note: If `pandas` and `latex` don't appear in Skill
+---
+
+## 📌 Featured Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DFT-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Catalysis-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Materials%20Science-9C27B0?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SARTHAK-802&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SARTHAK-802&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-802&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+## 🏆 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SARTHAK-802&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 👀 Visitors Count
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SARTHAK-802&icon=5&color=12" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ “Science + Code = Future” ⚡
+</p>
