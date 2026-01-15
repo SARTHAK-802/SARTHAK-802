@@ -54,7 +54,6 @@ My research interests lie at the intersection of:
   <img src="https://skillicons.dev/icons?i=matplotlib" height="45" alt="Matplotlib" />
 </p>
 
----
 <!--
 ## GitHub Analytics 
 <div align="center">
@@ -73,13 +72,11 @@ My research interests lie at the intersection of:
 </div>
 
 <br>
--->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-802&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170em" />
 </div>
-
----
-
+-->
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
