@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#00C2FF;">💫 Hi, I'm Sarthak</h1>
-<h3 align="center">M.Sc. Chemistry (IIT Indore, 2025) | Theoretical & Computational Chemistry 
+<h3 align="center">M.Sc. Chemistry (IIT Indore, 2025) | Theoretical & Computational Chemistry</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=720&lines=Catalysis+%7C+Machine+Learning;Always+Learning+%7C+Always+Building" />
@@ -27,13 +27,13 @@
 🎓 I’m **Sarthak**, an M.Sc. Chemistry graduate from **IIT Indore (2025)**.  
 My research interests lie at the intersection of:
 
--  **Computational Chemistry & DFT**
--  **Heterogeneous Catalysis**
--  **Machine Learning for Materials Science**
+- **Computational Chemistry & DFT**
+- **Heterogeneous Catalysis**
+- **Machine Learning for Materials Science**
 
 ---
 
-## 🛠️ Tech Stack (Tools I Use)
+## Tech Stack (Tools I Use)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,anaconda,git,github,docker,aws,gcp,flask,fastapi,django,opencv,selenium,linux,vscode" />
@@ -50,13 +50,39 @@ My research interests lie at the intersection of:
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=matplotlib" height="45" alt="Matplotlib" />
 </p>
+
 ---
 
-## 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=SARTHAK-802&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=SARTHAK-802&theme=blue-green&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-802&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+## GitHub Analytics
 
-## 🔝 Top Contributed Repo 
-![](https://github-contributor-stats.vercel.app/api?username=SARTHAK-802&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=SARTHAK-802&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SARTHAK-802&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SARTHAK-802&theme=blue-green&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-802&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+---
+
+## Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SARTHAK-802&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## Visitors Count
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SARTHAK-802&icon=0&color=0" />
+</p>
+
 ---
 
 <p align="center">
