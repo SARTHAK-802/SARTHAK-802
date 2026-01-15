@@ -14,10 +14,6 @@
   <a href="mailto:sarthakmaity450@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SARTHAK-802" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
 </p>
 
 ---
@@ -27,9 +23,9 @@
 🎓 I’m **Sarthak**, an M.Sc. Chemistry graduate from **IIT Indore (2025)**.  
 My research interests lie at the intersection of:
 
-- **Computational Chemistry & DFT**
-- **Heterogeneous Catalysis**
-- **Machine Learning for Materials Science**
+- Computational Chemistry & DFT
+- Heterogeneous Catalysis
+- Machine Learning for Materials Science
 
 ---
 
