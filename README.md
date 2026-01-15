@@ -14,6 +14,8 @@
   <a href="mailto:sarthakmaity450@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://github.com/SARTHAK-802" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
 </p>
 
 ---
