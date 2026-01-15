@@ -55,7 +55,7 @@ My research interests lie at the intersection of:
 </p>
 
 ---
-
+<!--
 ## GitHub Analytics 
 <div align="center">
 
@@ -73,7 +73,7 @@ My research interests lie at the intersection of:
 </div>
 
 <br>
-
+-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-802&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170em" />
 </div>
