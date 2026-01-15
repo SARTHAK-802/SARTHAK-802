@@ -33,7 +33,7 @@ My research interests lie at the intersection of:
 
 ---
 
-## Tech Stack (Tools I Use)
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,anaconda,git,github,docker,aws,gcp,flask,fastapi,django,opencv,selenium,linux,vscode" />
