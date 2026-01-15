@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#00C2FF;">💫 Hi, I'm Sarthak</h1>
+<h1 align="center" >💫 Hi, I'm Sarthak</h1>
 <h3 align="center">M.Sc. Chemistry (IIT Indore, 2025) | Theoretical & Computational Chemistry</h3>
 
 <p align="center">
