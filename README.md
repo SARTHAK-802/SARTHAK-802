@@ -1,8 +1,8 @@
 <h1 align="center" style="color:#00C2FF;">💫 Hi, I'm Sarthak</h1>
-<h3 align="center">M.Sc. Chemistry (IIT Indore, 2025)
+<h3 align="center">M.Sc. Chemistry (IIT Indore, 2025) | Theoretical & Computaional Chemistry 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=720&lines=Computational+Chemistry;Catalysis+%7C+Machine+Learning;Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=720&lines=Catalysis+%7C+Machine+Learning;Always+Learning+%7C+Always+Building" />
 </p>
 
 <!-- Social Icons -->
