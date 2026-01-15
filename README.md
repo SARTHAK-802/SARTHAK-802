@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=720&lines=Catalysis+%7C+Machine+Learning;Always+Learning+%7C+Always+Building" />
 </p>
-<img align="right" alt="coding" width="400" src="https://github.com/sabiehahmed10p/sabiehahmed10p">
+
 <!-- Social Icons -->
 <p align="center">
   <a href="https://linkedin.com/in/sarthak-maity-900279283" target="_blank">
@@ -18,6 +18,8 @@
   <a href="https://github.com/SARTHAK-802" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabiehahme&label=Views&color=blue&style=plastic&style=for-the-badge" alt="sabieh ahmed" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 ---
 
 ## About Me
