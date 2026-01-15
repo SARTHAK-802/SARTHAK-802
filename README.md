@@ -18,8 +18,8 @@
   <a href="https://github.com/SARTHAK-802" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SARTHAK-802&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="Sarthak profile views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SARTHAK-802&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="Sarthak Views" />
 </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
