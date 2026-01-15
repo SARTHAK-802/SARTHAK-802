@@ -2,7 +2,7 @@
 <h3 align="center">M.Sc. Chemistry (IIT Indore, 2025) | Theoretical & Computational Chemistry</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=720&lines=Catalysis+%7C+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=720&lines=Material+Science+%7C+Heterogenous+Catalysis;Machine+Learning+%7C+Deep+Learning"/>
 </p>
 
 <!-- Social Icons -->
