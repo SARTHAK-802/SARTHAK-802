@@ -22,24 +22,14 @@
 
 ---
 
-## 🧑‍🔬 About Me
+## About Me
 
 🎓 I’m **Sarthak**, an M.Sc. Chemistry graduate from **IIT Indore (2025)**.  
 My research interests lie at the intersection of:
 
-- ⚛️ **Computational Chemistry & DFT**
-- 🧪 **Heterogeneous Catalysis & Sub-nanometer clusters**
-- 🤖 **Machine Learning for Materials Science**
-- 📈 **Data-driven descriptor analysis & scaling relationships**
-
----
-
-## 🚀 What I'm working on
-
-✅ DSA + problem solving (LeetCode)  
-✅ ML models for chemistry + materials prediction  
-✅ GitHub portfolio with reproducible projects  
-✅ Writing scientific & research-ready codes  
+-  **Computational Chemistry & DFT**
+-  **Heterogeneous Catalysis**
+-  **Machine Learning for Materials Science**
 
 ---
 
@@ -60,18 +50,6 @@ My research interests lie at the intersection of:
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=matplotlib" height="45" alt="Matplotlib" />
 </p>
-
----
-
-## 📌 Featured Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DFT-00C2FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Catalysis-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Materials%20Science-9C27B0?style=for-the-badge"/>
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -90,7 +68,7 @@ My research interests lie at the intersection of:
 ## 🏆 Top Contributions
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SARTHAK-802&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SARTHAK-802&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
