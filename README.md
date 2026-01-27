@@ -37,7 +37,7 @@ My research interests lie at the intersection of:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,anaconda,git,github,docker,aws,gcp,flask,fastapi,django,opencv,selenium,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,bash,anaconda,git,github,flask,fastapi,django,opencv,selenium,linux,vscode" />
 </p>
 
 <p align="center">
