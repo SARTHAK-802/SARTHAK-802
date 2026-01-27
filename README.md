@@ -52,34 +52,6 @@ My research interests lie at the intersection of:
   <img src="https://skillicons.dev/icons?i=matplotlib" height="45" alt="Matplotlib" />
 </p>
 
-<!--
-## GitHub Analytics 
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SARTHAK-802&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SARTHAK-802&theme=radical">
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SARTHAK-802&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SARTHAK-802&theme=radical">
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SARTHAK-802&theme=radical&utcOffset=6">
-
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=SARTHAK-802&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=SARTHAK-802&theme=radical">
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-802&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170em" />
-</div>
--->
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ### Top Contributed Repo
