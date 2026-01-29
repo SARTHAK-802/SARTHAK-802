@@ -28,7 +28,7 @@
 🎓 I’m **Sarthak**, an M.Sc. Chemistry graduate from **IIT Indore (2025)**.  
 My research interests lie at the intersection of:
 
-- Computational Chemistry & DFT
+- Material Informatics
 - Heterogeneous Catalysis
 - Machine Learning for Materials Science
 
