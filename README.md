@@ -30,7 +30,7 @@ My research interests lie at the intersection of:
 
 - Material Informatics
 - Heterogeneous Catalysis
-- Machine Learning for Materials Science
+- Machine Learning for Material Science
 
 ---
 
