@@ -25,7 +25,7 @@
 
 ## About Me
 
-🎓 I’m **Sarthak**, an M.Sc. Chemistry graduate from **IIT Indore (2025)**.  
+🎓 I’m **Sarthak**, M.Sc. Chemistry graduate from **IIT Indore (2025)**.  
 My research interests lie at the intersection of:
 
 - Material Informatics
